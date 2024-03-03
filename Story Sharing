@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Community Name</title>
+    <!-- Add your CSS styling links here -->
+</head>
+<body>
+
+<!-- 1. Introduction & Guidelines -->
+<section id="introduction">
+    <h2>Welcome to Your Community Name!</h2>
+    <p>A warm welcome message explaining the purpose of the community.</p>
+    <p>Clear guidelines on respectful communication, constructive feedback, and community expectations.</p>
+</section>
+
+<!-- 2. Story Sharing -->
+<section id="story-sharing">
+    <h2>Story Sharing</h2>
+    <div id="subgenres">
+        <h3>Subgenres</h3>
+        <!-- Add subsections for BL and Yuri Shoujo -->
+    </div>
+    <div id="story-template">
+        <h3>Story Template</h3>
+        <!-- Add template for members to follow when sharing their stories -->
+    </div>
+</section>
+
+<!-- 3. Advice & Feedback -->
+<section id="advice-feedback">
+    <h2>Advice & Feedback</h2>
+    <p>Guidelines on giving and receiving constructive feedback.</p>
+    <p>Regular writing prompts or challenges to encourage participation.</p>
+</section>
+
+<!-- 4. Genre Discussions -->
+<section id="genre-discussions">
+    <h2>Genre Discussions</h2>
+    <div id="specific-threads">
+        <h3>Specific Threads</h3>
+        <!-- Add threads for BL, Yuri Shoujo, and other genres -->
+    </div>
+    <p>Monthly or weekly featured genre discussions to keep conversations active.</p>
+</section>
+
+<!-- 5. Author Spotlights -->
+<section id="author-spotlights">
+    <h2>Author Spotlights</h2>
+    <p>Regularly spotlighted authors with a brief bio and recommendations of their works.</p>
+    <p>Discussion threads for each spotlight to encourage member engagement.</p>
+</section>
+
+<!-- 6. Translation Project -->
+<section id="translation-project">
+    <h2>Translation Project</h2>
+    <div id="coordination-threads">
+        <h3>Coordination Threads</h3>
+        <!-- Add coordination threads for ongoing translation projects -->
+    </div>
+    <p>Guidelines on how members can contribute to the translation process.</p>
+</section>
+
+<!-- 7. Community Events -->
+<section id="community-events">
+    <h2>Community Events</h2>
+    <p>Calendar of upcoming events, challenges, and writing prompts.</p>
+    <p>Announcement threads for each event with details and guidelines.</p>
+</section>
+
+<!-- 8. General Chat -->
+<section id="general-chat">
+    <h2>General Chat</h2>
+    <div id="off-topic-threads">
+        <h3>Off-Topic Threads</h3>
+        <!-- Add off-topic threads for casual conversations -->
+    </div>
+    <p>Member introduction thread for new members to introduce themselves.</p>
+</section>
+
+<!-- Add your JavaScript scripts here if needed -->
+
+</body>
+</html>
+
